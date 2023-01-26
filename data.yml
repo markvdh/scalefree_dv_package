@@ -726,7 +726,9 @@ packages:
     version: https://github.com/Coalesce-Software-Inc/packages.git#data_vault
     versionInfo:
       commit: fcb60873d720b0641e2d837fece6af7043d76ea4
-projects: {}
+projects:
+  "1":
+    name: SCALEFREE-DATA_VAULT
 stepTypes:
   StepType-1:
     id: "1"
